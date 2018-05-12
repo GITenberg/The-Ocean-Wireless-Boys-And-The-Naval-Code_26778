@@ -1,0 +1,42 @@
+_repo: The-Ocean-Wireless-Boys-And-The-Naval-Code_26778
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 26778-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Deering, Fremont B.
+    - West, Marvin
+    - Lawton, Wilbur
+    - Lawton, Captain Wilbur
+    - Dexter J. Forrester
+    - Payson, Howard
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2008-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telegraph, Wireless -- Juvenile fiction'
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Ocean Wireless Boys and the Naval Code
+url: http://www.gutenberg.org/ebooks/26778
